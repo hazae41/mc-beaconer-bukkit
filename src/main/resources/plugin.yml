@@ -1,0 +1,7 @@
+name: Beaconer
+description: Beaconer
+version: 1.0
+main: hazae41.beaconer.Main
+depend: [ Kotlin ]
+api-version: 1.16
+author: hazae41
