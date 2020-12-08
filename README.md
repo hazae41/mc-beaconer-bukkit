@@ -1,7 +1,7 @@
 # Beaconer for Bukkit
 
 ⚠️This plugin requires PaperSpigot
-⚠️This plugin requires Kotlin plugin
+⚠️This plugin requires Kotlin
 
 ## [Download](https://github.com/saurusmc/beaconer-bukkit/raw/master/build/libs/beaconer-1.0.jar)
 
