@@ -4,7 +4,7 @@
 
 ⚠️This plugin requires Kotlin
 
-## [Download](https://github.com/saurusmc/beaconer-bukkit/raw/master/build/libs/beaconer-1.0.jar)
+### [Download](https://github.com/saurusmc/beaconer-bukkit/raw/master/build/libs/beaconer-1.0.jar)
 
 ### Features
 
